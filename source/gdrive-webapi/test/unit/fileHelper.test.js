@@ -34,7 +34,7 @@ describe('#FileHelper', () => {
                 birthtime: '2021-09-03T20:56:28.443Z'
             }
 
-            const mockUser = 'erickwendel'
+            const mockUser = 'clebsonsantos'
             process.env.USER = mockUser
             const filename = 'file.png'
 
